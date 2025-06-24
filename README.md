@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Aneeqa Mujahid
 
-<!--
-**AneeqaMujahid/aneeqamujahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 💡 Tech Enthusiast    
+🌈 Passionate about Machine Learning, Web Dev, and Ethical Hacking  
+📚 Currently learning: Streamlit, Tkinter, Deep Learning  
+📫 Reach me at: aneeqamujahid2@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Python | HTML | CSS | JavaScript | MySQL  
+- Tkinter | Streamlit | Git | Linux | VS Code
+
+### 🚀 Projects
+- AI Fashion Styler 👗  
+- Skin Allergy Detector 🧴  
+- YouTube Script Writer 🎥  
+
+---
+
+✨ Always exploring | 📘 Love learning | 🌟 Let’s connect!
+
